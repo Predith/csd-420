@@ -1,0 +1,23 @@
+/* Kristopher Kuenning
+09/21/2025
+CSD420
+Module 7 Programming Assignment
+ */
+
+/* White fill with black stroke */
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/* ID for red circle */
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+/* ID for green circle */
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
